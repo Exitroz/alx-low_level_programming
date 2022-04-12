@@ -1,11 +1,14 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
- *_abs - Check main
- * @r: An integre input
- * Description: This function returns absolute value of a number
- * Return: Absolut value of number r
+ * main - check the code
+ * _abs - value absolute
+ *
+ *@n: The int to print
+ * Return: Always 0.
  */
+
 int _abs(int r)
 {
 	if (r >= 0)
